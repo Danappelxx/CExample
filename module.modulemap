@@ -1,0 +1,4 @@
+module CExample {
+    header "example.h"
+    export *
+}
